@@ -1,6 +1,6 @@
 Shashank H K
 
-Data SCience
+Data Science
 
 1. Titanic Survival Prediction
 2. Movie Rating Prediction with Python
